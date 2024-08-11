@@ -1,5 +1,7 @@
 # HTMX Example
 
+## Stats
+
 ## Setup
 
 - [Install Go](https://go.dev/doc/install)
