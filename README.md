@@ -2,6 +2,8 @@
 
 ## Stats
 
+[![Go Report Card](https://goreportcard.com/badge/github.com/StevenDStanton/htmx-example)](https://goreportcard.com/report/github.com/StevenDStanton/htmx-example)
+
 ## Setup
 
 - [Install Go](https://go.dev/doc/install)
