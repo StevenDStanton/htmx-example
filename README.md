@@ -11,7 +11,7 @@
 - Clone Repo
 - Run `go mod tidy`
 - To Test run `go test ./...'
-- To see code coverage run `go test ./... coverage`
+- To see code coverage run `go test ./... -cover`
 - To run fuzz tests Coming soon
 - To run Benchmarks Coming soon
 - To run the server `air`
