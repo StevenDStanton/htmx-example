@@ -14,5 +14,5 @@
 - To see code coverage run `go test ./... -cover`
 - To run fuzz tests Coming soon
 - To run Benchmarks Coming soon
-- To run the server `air`
+- To run the server `go run cmd/main.go`
 - Vist [localhost:8000](localhost:8000)
